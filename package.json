@@ -1,0 +1,22 @@
+{
+  "name": "scheduleviewerserver",
+  "version": "1.0.0",
+  "description": "The server component of the schedule viewer application",
+  "main": "RestEndpointHandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelStroz/ScheduleViewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelStroz/ScheduleViewer/issues"
+  },
+  "homepage": "https://github.com/MichaelStroz/ScheduleViewer#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
