@@ -1,0 +1,100 @@
+//list of rotations and descriptions
+{
+	"rotations" : [
+	{
+		"code":"C1",
+		"name":"Mammography",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"C2",
+		"name":"Interventional",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"C3",
+		"name":"Ultrasound",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"C4",
+		"name":"Nuclear Medicine",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"C5",
+		"name":"CT",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"C6",
+		"name":"CT Half Day",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"C7",
+		"name":"Weekday MRI",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"C8",
+		"name":"Evening MRI",
+		"location":"MacKenzie"
+	},
+	{
+		"code":"S1",
+		"name":"Mammography",
+		"location":"Southlake"
+	},
+	{
+		"code":"S2",
+		"name":"Interventional",
+		"location":"Southlake"
+	},
+	{
+		"code":"S3",
+		"name":"Ultrasound",
+		"location":"Southlake"
+	},
+	{
+		"code":"S4",
+		"name":"Nuclear Medicine",
+		"location":"Southlake"
+	},
+	{
+		"code":"S5",
+		"name":"CT",
+		"location":"Southlake"
+	},
+	{
+		"code":"S6",
+		"name":"CT Half Day",
+		"location":"Southlake"
+	},
+	{
+		"code":"S7",
+		"name":"Weekday MRI",
+		"location":"Southlake"
+	},
+	{
+		"code":"S8",
+		"name":"Evening MRI",
+		"location":"Southlake"
+	},
+	{
+		"code":"ER",
+		"name":"Evening Call",
+		"location":"Mackenzie"
+	},
+	{
+		"code":"ES",
+		"name":"Evening Call",
+		"location":"Southlake"
+	},
+	{
+		"code":"X-VAC",
+		"name":"Time Off",
+		"location":"All"
+	}
+]
+}

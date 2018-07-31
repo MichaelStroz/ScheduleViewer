@@ -1,0 +1,70 @@
+//sample personal schedule
+{
+	"active":true,
+	"days":
+	[
+		{
+				"date":"2018-07-23",
+				"rotationAssignments" : [
+					{
+						"rotation":"C1",
+						"assignee": "STR"
+					}
+				]
+		},
+		{
+				"date":"2018-07-24",
+				"rotationAssignments" : [
+					{
+						"rotation":"S3",
+						"assignee": "STR"
+					}
+				]
+		},
+		{
+				"date":"2018-07-25",
+				"rotationAssignments" : [
+					{
+						"rotation":"S7",
+						"assignee": "STR"
+					}
+				]
+		},
+		{
+				"date":"2018-07-26",
+				"rotationAssignments" : [
+					{
+						"rotation":"ER",
+						"assignee": "STR"
+					}
+				]
+		},
+		{
+				"date":"2018-07-27",
+				"rotationAssignments" : [
+					{
+						"rotation":"C2",
+						"assignee": "STR"
+					}
+				]
+		},
+		{
+				"date":"2018-07-28",
+				"rotationAssignments" : [
+					{
+						"rotation":"X-VAC",
+						"assignee": "STR"
+					}
+				]
+		},
+		{
+				"date":"2018-07-29",
+				"rotationAssignments" : [
+					{
+						"rotation":"X-VAC",
+						"assignee": "STR"
+					}
+				]
+		}
+	]
+}
